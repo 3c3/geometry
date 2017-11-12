@@ -1,17 +1,3 @@
-/**
-*  
-* Solution to homework task
-* Introduction to programming course
-* Faculty of Mathematics and Informatics of Sofia University
-* Winter semester 2017/2018
-*
-* @author Kosyo Nikolov
-* @idnumber 62116
-* @task 7
-* @compiler GCC
-*
-*/
-
 #include <iostream>
 #include <algorithm>
 #include <math.h>
